@@ -1,5 +1,4 @@
-# Kaby
-
+# Kinglist
 ![iOS](https://img.shields.io/badge/iOS-12%20-blue)
 [![App Store](https://img.shields.io/itunes/v/1504762505?label=App%20Store)](https://apps.apple.com/us/app/kaby-easy-task-management/id1504762505)
 [![App Store](https://img.shields.io/badge/Price-Free-orange)](https://img.shields.io/badge/Price-Free-orange)
@@ -21,10 +20,8 @@
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
-
+Inspired by King and Kabi
+Inspired by King and Kabi
+Inspired by King and Kabi
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
